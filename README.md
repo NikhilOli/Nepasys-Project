@@ -4,6 +4,7 @@
 **Developer:** Nikhil Oli  
 **GitHub:** [github.com/nikhiloli](https://github.com/nikhiloli)  
 **Portfolio:** [nikhiloli.tech](https://nikhiloli.tech)
+**Live Project Link:** [nepasys-project.vercel.app](https://nepasys-project.vercel.app)
 
 ---
 
